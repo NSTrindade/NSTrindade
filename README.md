@@ -6,3 +6,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know how to play bass.
 
+![NSTrindade Status](https://github-readme-stats.vercel.app/api?username=nstrindade&show_icons=true)
+
+
