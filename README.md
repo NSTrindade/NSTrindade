@@ -2,6 +2,8 @@
 - 👀 I’m interested in technology, videogames, music, sports.
 - 🌱 I’m currently learning java, js, c++, css, html.
 
+  https://orcid.org/0009-0005-5668-7782
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NSTrindade}/count.svg" /></p> 
