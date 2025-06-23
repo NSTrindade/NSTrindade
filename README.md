@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @NSTrindade
-- 👀 I’m interested in technology, videogames, music, sports.
-- 🌱 I’m currently learning java, js, c++, css, html.
 
   https://orcid.org/0009-0005-5668-7782
 
